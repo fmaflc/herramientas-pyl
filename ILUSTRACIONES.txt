@@ -1,0 +1,45 @@
+ILUSTRACIONES Y MARCA
+
+Se conservan las ilustraciones de la colección. Para las nueve incorporaciones
+se crean seis imágenes nuevas y se reutilizan tres ilustraciones ya preparadas
+para la colección: aspirador, jarra medidora y regla de aluminio.
+
+Se prepara una copia del elevador, img/n-elevador-display.png, eliminando solo
+el antiguo logotipo alargado mediante edición de imagen. La app usa esa copia
+sin recorte inferior para mantener visibles todas las ruedas; el archivo original
+h-elevador.jpg permanece conservado como fuente y no se muestra en las fichas.
+
+La marca pequeña es img/marca.png, el archivo original de barras rojas: no se
+ha redibujado. La app la superpone abajo a la izquierda en fichas y ejercicios.
+En los otros JPG de la colección, la app recorta visualmente la franja inferior
+con el logotipo alargado. Al abrir esos archivos fuera de la app no se aplican
+el recorte ni la superposición. El encabezado conserva el logotipo completo.
+
+Las seis nuevas ilustraciones y la copia editada del elevador se han producido
+con la herramienta integrada de generación/edición de imágenes, una llamada
+por imagen. No representan modelos comerciales ni acreditan prestaciones.
+
+PROMPTS DE LAS SEIS IMÁGENES NUEVAS
+
+img/n-pedal.png
+Use case: scientific-educational. Asset type: imagen individual para ficha de herramientas de placa de yeso laminado. Primary request: Un pedal elevaplacas manual pequeño de acero, con palanca de pie ancha de superficie antideslizante y una pestaña baja plana que se introduce bajo el canto de una placa para ajustarla unos centímetros. El útil solo, apoyado en el banco, vista de tres cuartos, diseño sencillo mecánicamente coherente. Style: ilustración didáctica de catálogo, dibujo realista de contornos finos oscuros y sombreado suave, superficies materiales claras y reconocibles. Fondo crema cálido liso y banco de madera clara donde proceda; paleta crema amarillo gris negro naranja. Composición horizontal 4:3, objeto completo con margen alrededor, dejando la esquina inferior izquierda libre para superponer una marca real. Ninguna persona ni manos, no texto, no logotipo, no marca de agua, sin herramientas adicionales.
+
+img/n-carro.png
+Use case: scientific-educational. Asset type: imagen individual para ficha de herramientas de placa de yeso laminado. Primary request: Un carro de transporte de placas de yeso vacío, estructura metálica naranja con plataforma baja rectangular, cuatro ruedas y bastidor vertical inclinado de apoyo con asas. Soportes protegidos para no dañar cantos, el carro entero se ve apoyado en el suelo del taller, no sobre una mesa. Ninguna placa ni carga suspendida. Style: ilustración didáctica de catálogo, dibujo realista de contornos finos oscuros y sombreado suave, superficies materiales claras y reconocibles. Fondo crema cálido liso y banco de madera clara donde proceda; paleta crema amarillo gris negro naranja. Composición horizontal 4:3, objeto completo con margen alrededor, dejando la esquina inferior izquierda libre para superponer una marca real. Ninguna persona ni manos, no texto, no logotipo, no marca de agua, sin herramientas adicionales.
+
+img/n-medidor-laser.png
+Use case: scientific-educational. Asset type: imagen individual para ficha de herramientas de placa de yeso laminado. Primary request: Un medidor láser de distancias portátil compacto, cuerpo amarillo y negro, pantalla LCD y varios botones sencillos, ventana óptica en el extremo superior. Apoyado de tres cuartos sobre un banco de madera, no proyecta un haz visible. No confundir con un nivel láser de trípode. Pantalla apagada sin letras ni medidas. Style: ilustración didáctica de catálogo, dibujo realista de contornos finos oscuros y sombreado suave, superficies materiales claras y reconocibles. Fondo crema cálido liso y banco de madera clara donde proceda; paleta crema amarillo gris negro naranja. Composición horizontal 4:3, objeto completo con margen alrededor, dejando la esquina inferior izquierda libre para superponer una marca real. Ninguna persona ni manos, no texto, no logotipo, no marca de agua, sin herramientas adicionales.
+
+img/n-detector.png
+Use case: scientific-educational. Asset type: imagen individual para ficha de herramientas de placa de yeso laminado. Primary request: Un detector electrónico portátil de materiales ocultos en paredes, cuerpo amarillo y negro, pantalla apagada y zona sensora ancha, botones simples y empuñadura integrada. Apoyado solo en el banco de madera, no está escaneando y no muestra una luz verde de autorización. Sin cables expuestos ni marcas comerciales. Style: ilustración didáctica de catálogo, dibujo realista de contornos finos oscuros y sombreado suave, superficies materiales claras y reconocibles. Fondo crema cálido liso y banco de madera clara donde proceda; paleta crema amarillo gris negro naranja. Composición horizontal 4:3, objeto completo con margen alrededor, dejando la esquina inferior izquierda libre para superponer una marca real. Ninguna persona ni manos, no texto, no logotipo, no marca de agua, sin herramientas adicionales.
+
+img/n-proteccion-auditiva.png
+Use case: scientific-educational. Asset type: imagen individual para ficha de herramientas de placa de yeso laminado. Primary request: Un protector auditivo pasivo de tipo orejeras, dos copas acolchadas amarillas y negras unidas por una diadema ajustable negra, apoyado en un banco de madera clara. Se ven almohadillas y copas completas. Sin auriculares de música, sin electrónica visible ni etiquetas de prestaciones. Style: ilustración didáctica de catálogo, dibujo realista de contornos finos oscuros y sombreado suave, superficies materiales claras y reconocibles. Fondo crema cálido liso y banco de madera clara donde proceda; paleta crema amarillo gris negro naranja. Composición horizontal 4:3, objeto completo con margen alrededor, dejando la esquina inferior izquierda libre para superponer una marca real. Ninguna persona ni manos, no texto, no logotipo, no marca de agua, sin herramientas adicionales.
+
+img/n-calzado.png
+Use case: scientific-educational. Asset type: imagen individual para ficha de herramientas de placa de yeso laminado. Primary request: Un par de botas de seguridad de obra de caña media, cuero marrón y negro, cordones, suela gruesa con dibujo antideslizante visible en una de las botas ligeramente inclinada. Vista de catálogo sobre banco de madera. Sin logos, símbolos o certificaciones; no dibujar una puntera metálica al descubierto. Style: ilustración didáctica de catálogo, dibujo realista de contornos finos oscuros y sombreado suave, superficies materiales claras y reconocibles. Fondo crema cálido liso y banco de madera clara donde proceda; paleta crema amarillo gris negro naranja. Composición horizontal 4:3, objeto completo con margen alrededor, dejando la esquina inferior izquierda libre para superponer una marca real. Ninguna persona ni manos, no texto, no logotipo, no marca de agua, sin herramientas adicionales.
+
+PROMPT DE EDICIÓN DEL ELEVADOR
+img/n-elevador-display.png
+Use case: precise-object-edit. Asset type: imagen de ficha educativa. Image 1 is the EDIT TARGET, an existing illustration of a drywall panel lift. Remove ONLY the small red and grey full wordmark in the lower left corner. Reconstruct just that small patch of wooden surface consistently. Preserve the entire lift, panel, wheels, frame, colour, perspective, all geometry and the rest of the illustration exactly. No replacement logo, no watermark, no text. Keep full framing, do not crop, no new objects.
+

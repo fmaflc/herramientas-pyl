@@ -1,0 +1,72 @@
+HERRAMIENTAS DE PLACA DE YESO · VERSIÓN REVISADA Y AMPLIADA
+
+CONTENIDO
+40 fichas: las 31 originales revisadas y 9 nuevas:
+  - Aspirador para polvo de obra.
+  - Pedal elevaplacas.
+  - Carro de transporte de placas.
+  - Medidor láser de distancias.
+  - Detector de materiales ocultos.
+  - Jarra medidora graduada.
+  - Regla de aluminio.
+  - Protección auditiva.
+  - Calzado de seguridad.
+
+Se mantienen las categorías, la estética y las direcciones de las fichas
+originales. Todas incluyen función, reconocimiento, precauciones y dos nuevos
+apartados: Antes de utilizarla y Revisión y cuidado.
+
+Se precisan, entre otros puntos, las diferencias PH/PZ, profundidad de tornillo,
+compatibilidad de máquina y accesorio, cortes y uniones de perfiles, límites
+del detector, manejo de placas, captación de polvo y selección de protecciones.
+La apariencia de una herramienta no demuestra sus prestaciones o capacidad.
+
+EJERCICIOS
+40 ejercicios autocorregibles, uno por ficha: diez de reconocimiento visual
+y treinta de aplicación. Incluyen tres alternativas, botón Comprobar, pista,
+explicación, repetición, enlace de repaso y navegación entre actividades.
+El listado agrupa por categorías y muestra los ejercicios superados.
+Los encabezados de las actividades visuales identifican la ficha sin revelar
+el nombre de la herramienta.
+El ejercicio de dosificación utiliza datos explícitos de un supuesto: no fija
+una proporción de mezcla universal para productos reales.
+
+BÚSQUEDA Y PROGRESO
+Puedes buscar por varias palabras, sin escribir tildes, y combinar con categorías.
+Las fichas repasadas y los ejercicios superados se guardan en el navegador
+del dispositivo. No hay cuentas ni envío de respuestas. Los intentos y pistas
+abiertos solo duran la sesión. Borrar los datos del sitio elimina el progreso;
+no se sincroniza entre dispositivos. Si no se puede guardar, aparece un aviso
+y el progreso solo dura la sesión.
+Desde el listado se pueden reiniciar los ejercicios, tras confirmarlo,
+conservando las fichas repasadas.
+
+PUBLICAR
+1. Descomprime el ZIP.
+2. Publica todo su contenido. index.html debe quedar en la raíz junto a
+   data.js, app.js, ejercicios.js, la carpeta img y .nojekyll.
+3. No subas el ZIP como único archivo de un repositorio.
+
+Cloudflare Pages: para subida directa, carga la carpeta descomprimida al crear
+o actualizar el proyecto y publica el despliegue.
+Netlify: arrastra la carpeta descomprimida a la zona de subida manual del sitio.
+GitHub Pages: sube los archivos a la raíz, confirma los cambios y configura
+Settings > Pages > Deploy from a branch > main > / (root) > Save.
+Si Pages ya estaba configurado, actualiza los archivos y espera al despliegue.
+Si aparece la versión anterior después de actualizar, recarga sin caché.
+No requiere instalación, compilación, base de datos ni claves.
+
+USO FORMATIVO
+Las ilustraciones son orientativas, sin identificación de modelo ni certificado
+de carga, filtración, atenuación o protección. La selección y el uso requieren
+evaluación, instrucciones del equipo, fichas de producto y formación prevista.
+Reconocer una herramienta o superar ejercicios no acredita formación para
+manejar máquinas ni autoriza a cortar o perforar elementos desconocidos.
+Las referencias generales dentro de las fichas son apoyo; no sustituyen
+las instrucciones del equipo concreto ni son recomendaciones de compra.
+
+VERIFICACIÓN
+Se han comprobado las tres opciones de las 40 actividades (120 casos) y la
+repetición. En navegador se han probado búsqueda sin tildes, filtro combinado,
+repaso de ficha y persistencia al recargar, respuestas incorrecta y correcta,
+pista, repetición, guardado del logro, reinicio y presentación con ancho móvil.
